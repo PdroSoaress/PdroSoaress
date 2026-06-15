@@ -53,7 +53,7 @@
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C/C-original.svg](https://icons8.com.br/icons/set/c-programming)" 
+    src="https://icons8.com.br/icons/set/c-programming" 
 />
 <img 
     align="left" 
