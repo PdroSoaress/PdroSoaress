@@ -1,6 +1,6 @@
 # Pedro Soares 🧑🏻‍💻
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
 <p align="left"> 
     <a href="https://github.com/PdroSoaress?tab=repositories&sort=stargazers">
@@ -21,7 +21,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-### 🤖 Redes Sociais
+### 🤖 Social Media
 
 <p>
 <a href="https://www.linkedin.com/in/pedro-lucas-da-silva-soares-0422b733a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
@@ -31,7 +31,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologies & Languages
 
 <img 
     align="left" 
@@ -109,7 +109,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -127,4 +127,22 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrosoaress&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+### 📔 Projects I've Contributed To:
+
+<p>
+<a href="https://github.com/Player1mtBR/Bomba-Manos.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Player1mtBR&repo=Bomba-Manos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="BombaManos"></a>
 </p>
