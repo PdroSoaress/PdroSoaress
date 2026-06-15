@@ -17,6 +17,16 @@
             src="https://custom-icon-badges.demolab.com/github/followers/PdroSoaress?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+### 🤖 Redes Sociais
+
+<p>
+<a href="https://www.linkedin.com/in/pedro-lucas-da-silva-soares-0422b733a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+<a href="https://www.instagram.com/im_pedrosoares/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=96&id=litXGJ2dru3a&format=png"/></a>
+  
 </p>
 
 ---
